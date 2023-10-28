@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<a href="https://github.com/BotchedRPR">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BotchedRPR&langs_count=14&theme=nord&layout=compact" />
+</a>
+<a href="https://github.com/BotchedRPR">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BotchedRPR&show_icons=true&theme=nord&include_all_commits=true)]" />
+</a>
+
+
 <!--
 **BotchedRPR/BotchedRPR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
