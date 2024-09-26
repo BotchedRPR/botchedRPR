@@ -1,4 +1,4 @@
-### Hi there 👋
+### me big dum dum
 
 <a href="https://github.com/BotchedRPR">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BotchedRPR&langs_count=14&theme=nord&layout=compact" />
